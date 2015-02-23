@@ -60,7 +60,7 @@ create table linija(
 
 
 /*Tablea redova voznje.*/
-/* TODO Vedad: Convention for writing foreign key names is: NAME_ID, so if it is 'student' table foreign ID will be 'student_id', in your case
+/* TODO Vedad: Convention for writing foreign key names is: NAME_ID, so if it is 'students' table foreign ID will be 'student_id', in your case
 it should be 'kod_linije_id' - again if it was written in english there would be much less confusion and conventions would make much more sense
 */
 create table red_voznje(
