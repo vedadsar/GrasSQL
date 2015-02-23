@@ -1,5 +1,5 @@
 
-/*Ubacujem vozila*/
+/* Ubacujem vozila*/
 INSERT into Tip_vozila values ("TRA", "Tramvaj");
 INSERT into Tip_vozila values ("TRO", "Trolejbus");
 INSERT into Tip_vozila values ("AUT", "Autobus");
